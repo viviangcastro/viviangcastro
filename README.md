@@ -6,7 +6,7 @@
   
  📫 Contato via e mail: viviangcastro2@gmail.com
  </p>
-- 🔋 Linkedin: https://www.linkedin.com/in/vivian-gueivara-de-castro/ 
+  🔋 Linkedin: https://www.linkedin.com/in/vivian-gueivara-de-castro/ 
    </p>
 
   </p>
