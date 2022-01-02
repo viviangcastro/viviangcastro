@@ -1,4 +1,4 @@
-### Olá, eu sou Vivian Gueivara de castro, atualmente estou estudando Desenvolvimento de Software na [Cubos Academy](https://cubos.academy/)!📚📝
+### Olá, eu sou Vivian Gueivara de Castro, atualmente estou estudando Desenvolvimento de Software na [Cubos Academy](https://cubos.academy/)!📚📝
  
  </p>
 💬 Estudando • HTML • CSS • Javascript • Lógica  • Banco de Dados • SQL • Node.js • React • Metodologias Ágeis • Git 
